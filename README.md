@@ -1,4 +1,4 @@
-BANK MANAGEMENT SYSTEM USING DATA STRUCTURES(HASHMAP)
+#BANK MANAGEMENT SYSTEM USING DATA STRUCTURES(HASHMAP)
 
 The Bank Management System is a console-based Java application designed to manage customer accounts and perform basic banking operations such as adding new customers, deposits, withdrawals, and balance inquiries. 
 
